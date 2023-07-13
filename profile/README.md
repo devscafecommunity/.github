@@ -1,4 +1,4 @@
-## Bem-vindos à Org do Dev's Café! ☕️
+## Bem-vindos ao Dev's Café Community! ☕️
 
 Somos uma comunidade de desenvolvedores apaixonados, criada para promover a troca de conhecimentos, colaboração e inspiração. Aqui, você encontrará projetos incríveis, códigos abertos e discussões animadas sobre programação.
 
