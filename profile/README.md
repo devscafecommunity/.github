@@ -15,3 +15,14 @@ Equipe do Dev's Café 🚀
 <p align="center" width="100%">
     <img src="https://raw.githubusercontent.com/devscafecomunity/cafe/main/d7bcd594ca528d8a18074b02d43c0b28.png" alt="Dev's Café" width=300 height=300>
 </p>
+
+
+<h1 align="center">Our Team</h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/58578838?v=4" alt="John Doe" width="100px">
+  <img src="https://avatars.githubusercontent.com/u/63955444?v=4" alt="Jane Smith" width="100px">
+  <img src="https://avatars.githubusercontent.com/u/69652684?v=4" alt="Mike Johnson" width="100px">
+  <img src="https://avatars.githubusercontent.com/u/73436445?v=4" alt="Sarah Williams" width="100px">
+  <img src="https://avatars.githubusercontent.com/u/74683757?v=4" alt="Sarah Williams" width="100px">
+  <img src="https://avatars.githubusercontent.com/u/113122348?v=4" alt="Sarah Williams" width="100px">
+</p>
