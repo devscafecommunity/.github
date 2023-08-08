@@ -19,9 +19,19 @@ Equipe do Dev's Café 🚀
 
 <h1 align="center">Our Team</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/63955444?v=4" alt="Jane Smith" width="100px">
-  <img src="https://avatars.githubusercontent.com/u/69652684?v=4" alt="Mike Johnson" width="100px">
-  <img src="https://avatars.githubusercontent.com/u/73436445?v=4" alt="Sarah Williams" width="100px">
-  <img src="https://avatars.githubusercontent.com/u/74683757?v=4" alt="Sarah Williams" width="100px">
-  <img src="https://avatars.githubusercontent.com/u/113122348?v=4" alt="Sarah Williams" width="100px">
+  <a href="https://github.com/octavio-oi">
+    <img src="https://avatars.githubusercontent.com/u/63955444?v=4" alt="octavio-oi" width="100px">
+  </a>
+  <a href="https://github.com/LuanderFarias">
+    <img src="https://avatars.githubusercontent.com/u/69652684?v=4" alt="LuanderFarias" width="100px">
+  </a>
+  <a href="https://github.com/LyeZinho">
+    <img src="https://avatars.githubusercontent.com/u/73436445?v=4" alt="LyeZinho" width="100px">
+  </a>
+  <a href="https://github.com/ThiagoSantosOFC">
+    <img src="https://avatars.githubusercontent.com/u/74683757?v=4" alt="ThiagoSantosOFC" width="100px">
+  </a>
+  <a href="https://github.com/yulo-sudo22">
+    <img src="https://avatars.githubusercontent.com/u/113122348?v=4" alt="yulo-sudo22" width="100px">
+  </a>
 </p>
