@@ -19,7 +19,6 @@ Equipe do Dev's Café 🚀
 
 <h1 align="center">Our Team</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/58578838?v=4" alt="John Doe" width="100px">
   <img src="https://avatars.githubusercontent.com/u/63955444?v=4" alt="Jane Smith" width="100px">
   <img src="https://avatars.githubusercontent.com/u/69652684?v=4" alt="Mike Johnson" width="100px">
   <img src="https://avatars.githubusercontent.com/u/73436445?v=4" alt="Sarah Williams" width="100px">
