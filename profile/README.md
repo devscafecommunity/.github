@@ -36,4 +36,7 @@ Equipe do Dev's Café 🚀
   <a href="https://github.com/yulo-sudo22">
     <img src="https://avatars.githubusercontent.com/u/113122348?v=4" alt="yulo-sudo22" width="100px">
   </a>
+  <a href="https://github.com/Tardis2001">
+    <img src="https://avatars.githubusercontent.com/u/43731338?v=4" alt="Tardis2001" width="100px">
+  </a>
 </p>
