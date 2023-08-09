@@ -37,6 +37,6 @@ Equipe do Dev's Café 🚀
     <img src="https://avatars.githubusercontent.com/u/113122348?v=4" alt="yulo-sudo22" width="100px">
   </a>
   <a href="https://github.com/Tardis2001">
-    <img src="https://avatars.githubusercontent.com/u/43731338?v=4" alt="Tardis2001" width="100px">
+    <img src="https://media.discordapp.net/attachments/1089659799702094036/1138658577658155089/Captura_de_tela_2023-07-31_181118.png?width=475&height=473" alt="Tardis2001" width="100px">
   </a>
 </p>
