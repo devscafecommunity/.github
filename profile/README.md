@@ -22,21 +22,21 @@ Equipe do Dev's Café 🚀
 <h1 align="center">Our Team</h1>
 <p align="center">
   <a href="https://github.com/octavio-oi">
-    <img src="https://avatars.githubusercontent.com/u/63955444?v=4" alt="octavio-oi" width="100px">
+    <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/octavio-oi" alt="octavio-oi" width="100px">
   </a>
   <a href="https://github.com/LuanderFarias">
-    <img src="https://avatars.githubusercontent.com/u/69652684?v=4" alt="LuanderFarias" width="100px">
+    <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/LuanderFarias" alt="LuanderFarias" width="100px">
   </a>
   <a href="https://github.com/LyeZinho">
-    <img src="https://avatars.githubusercontent.com/u/73436445?v=4" alt="LyeZinho" width="100px">
+    <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/LyeZinho" alt="LyeZinho" width="100px">
   </a>
   <a href="https://github.com/ThiagoSantosOFC">
-    <img src="https://avatars.githubusercontent.com/u/74683757?v=4" alt="ThiagoSantosOFC" width="100px">
+    <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/ThiagoSantosOFC" alt="ThiagoSantosOFC" width="100px">
   </a>
   <a href="https://github.com/yulo-sudo22">
-    <img src="https://avatars.githubusercontent.com/u/113122348?v=4" alt="yulo-sudo22" width="100px">
+    <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/yulo-sudo22" alt="yulo-sudo22" width="100px">
   </a>
   <a href="https://github.com/Tardis2001">
-    <img src="https://media.discordapp.net/attachments/1089659799702094036/1138658577658155089/Captura_de_tela_2023-07-31_181118.png?width=475&height=473" alt="Tardis2001" width="100px">
+    <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/Tardis2001" alt="Tardis2001" width="100px">
   </a>
 </p>
