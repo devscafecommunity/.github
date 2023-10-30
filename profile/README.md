@@ -39,4 +39,7 @@ Equipe do Dev's Café 🚀
   <a href="https://github.com/Tardis2001">
     <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/Tardis2001" alt="Tardis2001" width="100px">
   </a>
+  <a href="https://github.com/0xdeadbad">
+    <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/0xdeadbad" alt="Tardis2001" width="100px">
+  </a>
 </p>
