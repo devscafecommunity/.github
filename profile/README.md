@@ -5,7 +5,7 @@ Somos uma comunidade de desenvolvedores apaixonados, criada para promover a troc
 🌐 **Redes Sociais:**
 - Twitter: [@devscafe_](https://twitter.com/devscafe_)
 - Discord: [Servidor do Dev's Café](https://discord.gg/skwJuprZAP)
-- Website: [devscafe.vercel.app](https://devscafe.vercel.app)
+- Website: [devscafe.pt](https://devscafe.pt/)
 - Youtube: [@devscafe_](https://www.youtube.com/@devscafe_)
 
 Siga-nos no Twitter para ficar atualizado sobre nossas novidades e eventos. E junte-se ao nosso servidor no Discord para se conectar com outros desenvolvedores, tirar dúvidas e participar de discussões interessantes.
