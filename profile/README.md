@@ -43,9 +43,9 @@ Equipe do Dev's Café 🚀
     <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/0xdeadbad" alt="Tardis2001" width="100px">
   </a>
   <a href="https://github.com/Denner6">
-    <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/Denner6" alt="Tardis2001" width="100px">
+    <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/Denner6" alt="Denner6" width="100px">
   </a>
   <a href="https://github.com/ryder-sec">
-    <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/ryder-sec" alt="Tardis2001" width="100px">
+    <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/ryder-sec" alt="ryder-sec" width="100px">
   </a>
 </p>
