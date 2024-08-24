@@ -49,3 +49,9 @@ Equipe do Dev's Café 🚀
     <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/ryder-sec" alt="ryder-sec" width="100px">
   </a>
 </p>
+
+<hr />
+
+<h1>Repositorios importantes</h1>
+
+[Padrões de commit](https://github.com/devscafecommunity/PadroesdeCommit)
