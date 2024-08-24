@@ -52,6 +52,6 @@ Equipe do Dev's Café 🚀
 
 <hr />
 
-<h1>Repositorios importantes</h1>
+### Repositorios importantes
 
 [Padrões de commit](https://github.com/devscafecommunity/PadroesdeCommit)
