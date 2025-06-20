@@ -19,6 +19,7 @@ Equipe do Dev's Café 🚀
 </p>
 
 
+<!--
 <h1 align="center">Our Team</h1>
 <p align="center">
   <a href="https://github.com/octavio-oi">
@@ -49,7 +50,7 @@ Equipe do Dev's Café 🚀
     <img src="https://cafe-content.vercel.app/api/github/userprofilepicture/ryder-sec" alt="ryder-sec" width="100px">
   </a>
 </p>
-
+-->
 <hr />
 
 ### Repositorios importantes
