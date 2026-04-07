@@ -3,10 +3,10 @@
 Somos uma comunidade de desenvolvedores apaixonados, criada para promover a troca de conhecimentos, colaboração e inspiração. Aqui, você encontrará projetos incríveis, códigos abertos e discussões animadas sobre programação.
 
 🌐 **Redes Sociais:**
-- Twitter: [@devscafe_](https://twitter.com/devscafe_)
+- Twitter: [@devscafecom](https://twitter.com/devscafecom)
 - Discord: [Servidor do Dev's Café](https://discord.gg/skwJuprZAP)
 - Website: [devscafe.org](https://devscafe.org/)
-- Youtube: [@devscafe_](https://www.youtube.com/@devscafe_)
+- Youtube: [@devscafecom](http://youtube.com/@devscafecom)
 
 Siga-nos no Twitter para ficar atualizado sobre nossas novidades e eventos. E junte-se ao nosso servidor no Discord para se conectar com outros desenvolvedores, tirar dúvidas e participar de discussões interessantes.
 
